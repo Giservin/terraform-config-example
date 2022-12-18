@@ -1,0 +1,9 @@
+/9-GCP-terraform-example/giservin_key.json
+/9-GCP-terraform-example/ssh_key.pub
+/10-prevent-destroy/.terraform
+/10-prevent-destroy/.terraform.lock.hcl
+/10-prevent-destroy/giservin_key.json
+/10-prevent-destroy/ssh_key.pub
+/10-prevent-destroy/*.tfstate.*
+/10-prevent-destroy/*.tfstate
+
